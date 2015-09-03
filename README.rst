@@ -1,5 +1,5 @@
-About pgbench-tools
-===================
+About pgbench-tools (tainted)
+=============================
 
 pgbench-tools automates running PostgreSQL's built-in pgbench tool in a
 useful ways.  It will run some number of database sizes (the database
